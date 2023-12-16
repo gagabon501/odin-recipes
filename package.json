@@ -1,0 +1,24 @@
+{
+  "name": "odin-recipes",
+  "version": "1.0.0",
+  "description": "Odin HTML exercises",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gagabon501/odin-recipes.git"
+  },
+  "keywords": [
+    "odin",
+    "html",
+    "css"
+  ],
+  "author": "Gilberto Gabon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gagabon501/odin-recipes/issues"
+  },
+  "homepage": "https://github.com/gagabon501/odin-recipes#readme"
+}
